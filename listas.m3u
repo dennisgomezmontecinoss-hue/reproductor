@@ -138,6 +138,10 @@ https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 
 
+#EXTINF:-1 tvg-id="44" tvg-name="PTV" tvg-logo="https://canales.asplurtv.com/logo_tvoff.png" group-title="Nacionales", TVOFF
+https://s4.tvdatta.com:3449/live/tvofflive.m3u8
+
+
 #EXTINF:-1 tvg-id="44" tvg-name="PTV" tvg-logo="https://canales.asplurtv.com/logo_ptv.png" group-title="Nacionales", PTV
 https://live20.bozztv.com/akamaissh101/ssh101/ptvonline/playlist.m3u8
 
