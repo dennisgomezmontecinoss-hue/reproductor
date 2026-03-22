@@ -204,11 +204,17 @@ https://live20.bozztv.com/akamaissh101/ssh101/lashmytv/playlist.m3u8
 https://59d39900ebfb8.streamlock.net:443/sigloxxi/sigloxxi/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="38" tvg-name="Siglo XXI" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Nacionales", Mega Cine
+https://mlb.essastream.com:8081/megacinetv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-id="38" tvg-name="Siglo XXI" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1675-294x165-FFFFFF.jpg" group-title="Nacionales", CDTV
+https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="Imperial" tvg-logo="https://canales.asplurtv.com/logo_imperial.png" group-title="Nacionales", Imperial
 https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="CNN ESPAÑOL" tvg-logo="https://i.ibb.co/1G87bpMB/CNN.png" group-title="Nacionales", CNN ESPAÑOL
